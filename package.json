@@ -11,6 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "fast-csv": "^2.4.1",
-    "lodash": "^4.17.11"
+    "lodash": "^4.17.13"
   }
 }
